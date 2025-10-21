@@ -1,2 +1,15 @@
-.DS_Store
+node_modules/
+dist/
+build/
 .env
+.cache/
+.vscode/
+coverage/
+.DS_Store
+
+# frontend build
+frontend/dist/
+
+# backend build
+backend/dist/
+backend/node_modules/
